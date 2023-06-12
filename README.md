@@ -1,8 +1,8 @@
 # README
 
-## Starter code for Lab Assignment #10
+## Starter code for Lab Assignment #11
 
-**Names:**
+**Name:**
 
 ## Introduction
 
