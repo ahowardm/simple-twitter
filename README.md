@@ -15,11 +15,12 @@ This application is a basic simulation of Twitter.
 ### Data Model
 
 Here is the data model:
-![ER Model](erd.png)
+![ER Model](erb.png)
 
 * Tweet: represents a normal tweet.
 * Hashtag: represents the tags that a tweet can have.
 * User: represents the user.
+* Tag: It is the n-n relationship between hashtag and tweet
 
 ### App Functionality
 
